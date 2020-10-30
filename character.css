@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+}
+body{
+    background-color: #dcee10;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 1000'%3E%3Cg %3E%3Ccircle fill='%23dcee10' cx='50' cy='0' r='50'/%3E%3Cg fill='%23dfef2b' %3E%3Ccircle cx='0' cy='50' r='50'/%3E%3Ccircle cx='100' cy='50' r='50'/%3E%3C/g%3E%3Ccircle fill='%23e2ef3d' cx='50' cy='100' r='50'/%3E%3Cg fill='%23e5f04b' %3E%3Ccircle cx='0' cy='150' r='50'/%3E%3Ccircle cx='100' cy='150' r='50'/%3E%3C/g%3E%3Ccircle fill='%23e8f157' cx='50' cy='200' r='50'/%3E%3Cg fill='%23ebf163' %3E%3Ccircle cx='0' cy='250' r='50'/%3E%3Ccircle cx='100' cy='250' r='50'/%3E%3C/g%3E%3Ccircle fill='%23edf26e' cx='50' cy='300' r='50'/%3E%3Cg fill='%23f0f378' %3E%3Ccircle cx='0' cy='350' r='50'/%3E%3Ccircle cx='100' cy='350' r='50'/%3E%3C/g%3E%3Ccircle fill='%23f2f483' cx='50' cy='400' r='50'/%3E%3Cg fill='%23f4f48d' %3E%3Ccircle cx='0' cy='450' r='50'/%3E%3Ccircle cx='100' cy='450' r='50'/%3E%3C/g%3E%3Ccircle fill='%23f6f597' cx='50' cy='500' r='50'/%3E%3Cg fill='%23f8f6a1' %3E%3Ccircle cx='0' cy='550' r='50'/%3E%3Ccircle cx='100' cy='550' r='50'/%3E%3C/g%3E%3Ccircle fill='%23f9f7aa' cx='50' cy='600' r='50'/%3E%3Cg fill='%23fbf7b4' %3E%3Ccircle cx='0' cy='650' r='50'/%3E%3Ccircle cx='100' cy='650' r='50'/%3E%3C/g%3E%3Ccircle fill='%23fcf8bd' cx='50' cy='700' r='50'/%3E%3Cg fill='%23fdf9c7' %3E%3Ccircle cx='0' cy='750' r='50'/%3E%3Ccircle cx='100' cy='750' r='50'/%3E%3C/g%3E%3Ccircle fill='%23fefad1' cx='50' cy='800' r='50'/%3E%3Cg fill='%23fefbda' %3E%3Ccircle cx='0' cy='850' r='50'/%3E%3Ccircle cx='100' cy='850' r='50'/%3E%3C/g%3E%3Ccircle fill='%23fffce4' cx='50' cy='900' r='50'/%3E%3Cg fill='%23fffded' %3E%3Ccircle cx='0' cy='950' r='50'/%3E%3Ccircle cx='100' cy='950' r='50'/%3E%3C/g%3E%3Ccircle fill='%23fffef7' cx='50' cy='1000' r='50'/%3E%3C/g%3E%3C/svg%3E");
+background-attachment: fixed;
+background-size: contain;
+}
+p{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    border: black 3px groove;
+    width: 55%;
+    margin-left: auto;
+    margin-right: auto;
+}
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: groove 3px black;
+}
